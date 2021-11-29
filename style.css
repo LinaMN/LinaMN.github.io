@@ -139,7 +139,7 @@ nav li a:hover { color: #986b58; /* so nav words brown on hover */
 
       /* Background Styles */
       /* background image doesn't take colors but take gradients, 0 is full transparency in rgba, make sure to separate multiple backgrounds with commas */
-      background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("images/soaplady1.jpg");
+      background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("images/soaplady.jpg");
       
 }
 /* spcaing and styles of wording on top of hero background */
@@ -285,7 +285,7 @@ nav li a:hover { color: #986b58; /* so nav words brown on hover */
 
       /* Background Styles */
       /* background image doesn't take colors but take gradients, 0 is full transparency in rgba, make sure to separate multiple backgrounds with commas */
-      background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url("images/soapwoman1.JPG");
+      background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url("images/soapwoman.jpg");
 }
 /*styles for headings on top of picture background above*/
 .makers h2 { /* Margins */
@@ -447,7 +447,7 @@ font-weight: 400;}
 
 .pic {width: 50vw;
       height: 80vh; 
-      background-image: url("images/applefarm.JPG");
+      background-image: url("images/applefarm.jpg");
       background-attachment: scroll;
 }
 
@@ -470,7 +470,7 @@ font-weight: 400;}
                    
 .pic2 {width: 50vw;
       height: 80vh; 
-      background-image: url("images/linen.JPG");
+      background-image: url("images/linen.jpg");
       background-attachment: scroll;
 }
 
