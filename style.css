@@ -382,7 +382,7 @@ footer { display: flex;
          letter-spacing: 0.1rem;
          text-align: center;
 }
-.foot .wrap {padding: 3%;}  
+.foot .wrap {padding: 10px;}  
 
 /* Shop Page */
 /* main heading*/
