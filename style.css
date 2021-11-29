@@ -428,7 +428,7 @@ font-weight: 400;}
 
             /* Background Styles */
            /*change the image here */
-           background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("images/friends.JPG");
+           background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("images/friends.jpg");
 }
 .color {background-color: #fff9f2;} /* Maybe move to top so I can use again!!!! background color for page */
 
