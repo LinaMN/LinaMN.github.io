@@ -381,7 +381,8 @@ footer { display: flex;
          height: 13vh;
          letter-spacing: 0.1rem;
          text-align: center;
-}     
+}
+.foot .wrap {padding: 3%;}  
 
 /* Shop Page */
 /* main heading*/

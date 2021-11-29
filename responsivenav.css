@@ -16,6 +16,7 @@
  .journalinfo p {display: none;}   
  .banner {display: none;}
  .logosize {width: 300px;}
+ .background { background-attachment: scroll;}
 }
 @media only screen and (max-width: 500px) { 
     
